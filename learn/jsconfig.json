@@ -6,7 +6,7 @@
         "moduleResolution": "node",
         "paths": {
             "@/*": ["src-01. 初识vue3/*"]
-        },
+        }src-03. 生命周期/*2. 计算属性与监视属性/*
         "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
     }
 }

@@ -12,7 +12,7 @@ export default {
     components: {
         Student
     },
-    setup() {
+    setup(props,context) {
         return {
             
         }
