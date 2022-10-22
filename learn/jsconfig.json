@@ -6,7 +6,7 @@
         "moduleResolution": "node",
         "paths": {
             "@/*": ["src-01. 初识vue3/*"]
-        }src-06. 其他的CompositionApi及总结/*5. toRef与toRefs/*4. vue3中的hook/*3. 生命周期/*2. 计算属性与监视属性/*
+        }src-07. vue3中新增的一些组件/*6. 其他的CompositionApi及总结/*5. toRef与toRefs/*4. vue3中的hook/*3. 生命周期/*2. 计算属性与监视属性/*
         "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
     }
 }
